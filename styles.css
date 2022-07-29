@@ -47,7 +47,7 @@ padding: 3% 15%;
   padding: 0 18px;
 }
 .nav-link {
-  font-size: 1.2rem;
+  font-size: 1.6rem;
   font-family: "Montserrat-Light";
 }
 
@@ -132,6 +132,9 @@ color: #fff;
   }
   .title-image {
     transform: rotate(0);
+  }
+  p {
+    font-size: 1.5rem;
   }
 }
 
